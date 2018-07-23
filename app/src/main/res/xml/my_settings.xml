@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Title_01">
+        <Preference
+            android:key="key_01"
+            android:summary="summary_01"
+            android:title="title_01" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Title_02">
+        <Preference
+            android:key="key_02"
+            android:summary="summary_02"
+            android:title="title_02" />
+
+        <Preference
+            android:key="key_03"
+            android:summary="summary_03"
+            android:title="title_03" />
+    </PreferenceCategory>
+</PreferenceScreen>
